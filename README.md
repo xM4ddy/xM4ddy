@@ -10,3 +10,5 @@ I'm **Maddy**.
 - 🤝 I like to discuss coding, FOSS, and tech. Feel free to talk to me about any of them.
 - 📫 If you want to get in contact discord is probably the best place to start @Maddy#6666.
 - ❓ Want to know more about me? Get in contact my email is 7cQnnVCq@protonmail.com.
+
+<img src="https://i.pinimg.com/originals/0a/6f/06/0a6f0697514f5517e35b2e741eaaabed.gif" alt="">
