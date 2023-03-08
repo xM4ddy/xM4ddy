@@ -13,7 +13,7 @@
 - ❓ Want to know more about me? Get in contact my email is 7cQnnVCq@protonmail.com.
 - 🗨️ Alternitivly I  can be reached on matrix @m4ddy:matrix.org.
 ---
-<img style="margin-right: 0.5vw;" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> 
 <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
