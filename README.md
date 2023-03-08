@@ -2,8 +2,7 @@
   <img id="header" src="https://github.com/xM4ddy/xM4ddy/raw/main/maddy.gif" alt="Sparkiling Text Spelling out Maddy">
 </p>
 
-## Hi there 👋
-#### I'm **Maddy**.
+## Hi 👋
 - 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
 - 🌱 I work with C++, C, JavaScript, HTML, Lua, PHP, CSS, Java, SQL, C#, Python and probably some other languages I have forgotten.
 - 🖥️ I love open source anything. FOSS is where it's at.
