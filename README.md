@@ -17,5 +17,5 @@
 #### What I'm Vibing to 🎵:
 [![Spotify](https://spotify-aynbiu5fh-xm4ddy.vercel.app/api/spotify)](https://open.spotify.com/user/mocwilcox)
 ---
-#### A Cute Cat, Just for You:
+#### And a Cute Gif Because I Can:
 <img src="https://i.pinimg.com/originals/0a/6f/06/0a6f0697514f5517e35b2e741eaaabed.gif" alt="">
