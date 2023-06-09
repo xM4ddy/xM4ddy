@@ -8,7 +8,7 @@
 - 🖥️ I love open source anything. FOSS is where it's at. Linux is dope yo!
 - 🎮 I love gaming. I mostly play FPS and factorio.
 - 🤝 I like to discuss coding, FOSS, and tech. Feel free to talk to me about any of them.
-- 📫 If you want to get in contact quickly discord is probably the best place to start @Maddy#6666.
+- 📫 If you want to get in contact quickly discord is probably the best place to start @xm4ddy.
 - ❓ Want to know more about me? Get in contact, my email is 7cQnnVCq@protonmail.com.
 - 🗨️ Alternitivly I can be reached on matrix @m4ddy:matrix.org.
 
