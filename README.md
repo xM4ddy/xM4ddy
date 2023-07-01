@@ -4,8 +4,8 @@
 
 ## Hi 👋
 - 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
-- 🌱 I work with C++, C, JavaScript, HTML, Lua, PHP, CSS, Java, SQL, C#, Python and probably some other languages I have forgotten.
-- 📖 Learning: Rust, Assembly.
+- 📖 I work with C++, C, JavaScript, HTML, Lua, PHP, CSS, Java, SQL, C#, Python and probably some other languages I have forgotten.
+- 🌱 Learning: Rust, Assembly.
 - 🖥️ I love open source anything. FOSS is where it's at. Linux is dope yo!
 - 🎮 I love gaming. I mostly play FPS and factorio.
 - 🤝 I like to discuss coding, FOSS, and tech. Feel free to talk to me about any of them.
