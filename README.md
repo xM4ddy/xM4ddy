@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/xM4ddy/xM4ddy/raw/main/header.gif" alt="GIF Spelling Out Maddy">
+  <img src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
 </p>
 
 ## Hi 👋
@@ -19,6 +20,6 @@
 [![Spotify](https://readme-spotify-37krchpyx-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
 ---
 <p align="center">
-  <img width="100%" src="https://github.com/xM4ddy/xM4ddy/raw/main/glitch.gif" alt="Glitchy GIF">
+  <img width="100%" height="100px" src="https://github.com/xM4ddy/xM4ddy/raw/main/glitch.gif" alt="Glitchy GIF">
 </p>
 
