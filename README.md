@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/header.gif" alt="Sparkiling Text Spelling out Maddy">
+  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/header.gif" alt="GIF Spelling Out Maddy">
 </p>
 
 ## Hi 👋
@@ -18,5 +18,7 @@
 #### What I'm Vibing to 🎵:
 [![Spotify](https://readme-spotify-37krchpyx-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
 ---
-#### And a Cute Gif Because I Can 😺:
-<img src="https://i.pinimg.com/originals/0a/6f/06/0a6f0697514f5517e35b2e741eaaabed.gif" alt="">
+<p align="center">
+  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/glitch.gif" alt="Glitchy GIF">
+</p>
+
