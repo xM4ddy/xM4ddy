@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/maddy.gif" alt="Sparkiling Text Spelling out Maddy">
+  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/text(1).gif" alt="Sparkiling Text Spelling out Maddy">
 </p>
 
 ## Hi 👋
