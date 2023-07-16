@@ -20,6 +20,6 @@
 [![Spotify](https://readme-spotify-37krchpyx-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
 ---
 <p align="center">
-  <img width="100%" height="100px" src="https://github.com/xM4ddy/xM4ddy/raw/main/glitch.gif" alt="Glitchy GIF">
+  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/footer.gif" alt="Glitchy GIF">
 </p>
 
