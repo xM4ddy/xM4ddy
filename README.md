@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github.com/xM4ddy/xM4ddy/raw/main/header.gif" alt="GIF Spelling Out Maddy">
-  <img src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
+  <img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
 </p>
 
-## Hi 👋
-- 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
+## Hi There 👋
+- 👨‍💻 I'm some sort of a full-stack developer.
 - 📖 I work with C++, C, JavaScript, HTML, Lua, PHP, CSS, Java, SQL, C#, Python and probably some other languages I have forgotten.
 - 🌱 Learning: Rust, Assembly.
 - 🖥️ I love open source anything. FOSS is where it's at. Linux is dope yo!
