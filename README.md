@@ -3,7 +3,7 @@
   <img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
 </p>
 
-## Hi There 👋
+## Hi There 👋, Here's a Little About Me
 - 👨‍💻 I'm some sort of a full-stack developer.
 - 📖 I work with C++, C, JavaScript, HTML, Lua, PHP, CSS, Java, SQL, C#, Python and probably some other languages I have forgotten.
 - 🌱 Learning: Rust, Assembly.
