@@ -9,7 +9,7 @@ struct { // About Me
     string intro = "Hi, I'm Maddy, a full-stack developer.";
     vector<string> common_langs = { "HTML", "CSS", "JS", "TS", "PHP", "C", "C++", "SQL", "PY" };
     vector<string> learning = { "RS", "ASM" };
-    string interest = "I love FOSS, video games (FPS and factorio), and messing around with GNU/Linux.";
+    string interest = "I love FOSS, video games (FPS and factorio), GNU/Linux.";
     string email = "7cQnnVCq@protonmail.com";
     string discord = "@xm4ddy";
     string matrix = "@m4ddy:matrix.org";
