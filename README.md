@@ -5,7 +5,7 @@
 
 ## Hi There 👋, Here's a Little About Me
 ```c++
-struct {
+struct { // About Me
     std::string intro = "Hi, I'm Maddy, a full-stack developer.";
     std::vector<std::string> common_langs = { "HTML", "CSS", "JS", "TS", "PHP", "C", "C++", "SQL", "Python" };
     std::vector<std::string> learning = { "Rust", "Assembly" };
