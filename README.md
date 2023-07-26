@@ -6,13 +6,13 @@
 ## Hi There 👋, Here's a Little About Me
 ```c++
 struct { // About Me
-    std::string intro = "Hi, I'm Maddy, a full-stack developer.";
-    std::vector<std::string> common_langs = { "HTML", "CSS", "JS", "TS", "PHP", "C", "C++", "SQL", "Python" };
-    std::vector<std::string> learning = { "Rust", "Assembly" };
-    std::string interest = "I love FOSS, video games (FPS and factorio), and messing around with GNU/Linux.";
-    std::string email = "7cQnnVCq@protonmail.com";
-    std::string discord = "@xm4ddy";
-    std::string matrix = "@m4ddy:matrix.org";
+    string intro = "Hi, I'm Maddy, a full-stack developer.";
+    vector<string> common_langs = { "HTML", "CSS", "JS", "TS", "PHP", "C", "C++", "SQL", "Python" };
+    vector<string> learning = { "Rust", "Assembly" };
+    string interest = "I love FOSS, video games (FPS and factorio), and messing around with GNU/Linux.";
+    string email = "7cQnnVCq@protonmail.com";
+    string discord = "@xm4ddy";
+    string matrix = "@m4ddy:matrix.org";
 } Maddy;
 ```
 
