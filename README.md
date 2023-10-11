@@ -19,7 +19,7 @@ struct { // About Me
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 ---
 #### What I'm Vibing to 🎵:
-[![Spotify](https://readme-spotify-37krchpyx-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
+[![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
 ---
 <p align="center">
   <img src="https://github.com/xM4ddy/xM4ddy/raw/main/footer.gif" alt="Glitchy GIF">
