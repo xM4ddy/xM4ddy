@@ -20,8 +20,4 @@ struct { // About Me
 ---
 ## What I'm Vibing to 🎵:
 [![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
----
-<p align="center">
-  <img src="https://github.com/xM4ddy/xM4ddy/raw/main/footer.gif" alt="Glitchy GIF">
-</p>
 
