@@ -22,6 +22,6 @@ struct { // About Me
 [![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox)
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://readme2-ten.vercel.app/api?rainbow=true&theme=dark" alt="Current Spotify Song">
+  <img src="https://readme2-ten.vercel.app/api?rainbow=true&theme=dark" alt="Current Spotify Song" max-width="90%">
 </a>
 
