@@ -7,7 +7,7 @@
 ```c++
 struct { // About Me
     string intro = "Hi, I'm Maddy, a full-stack developer.";
-    vector<string> common_langs = { "HTML", "CSS", "JS", "TS", "PHP", "C", "C++", "SQL", "PY" };
+    vector<string> common_langs = { "HTML", "CSS", "JS", "TS", "PHP", "C", "C++", "C#", "SQL", "PY" };
     vector<string> learning = { "RS", "ASM" };
     string interest = "I love FOSS, video games (FPS and factorio), GNU/Linux.";
     string email = "7cQnnVCq@protonmail.com";
