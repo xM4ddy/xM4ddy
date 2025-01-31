@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/xM4ddy/xM4ddy/raw/main/header.gif" alt="GIF Spelling Out Maddy">
-  <img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
+  <img width="100%" height="100px" src="https://www.pngall.com/wp-content/uploads/9/Synthwave-PNG-Free-Image.png" alt="GIF Spelling Out Maddy">
 </p>
 
 ## Hi There 👋, Here's a Little About Me
